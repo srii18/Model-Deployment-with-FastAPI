@@ -1,0 +1,36 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Virtual environment
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+
+# Model files (optional - only if you don't want to store them in Git)
+*.pkl
+
+# Docker-related
+.dockerignore
